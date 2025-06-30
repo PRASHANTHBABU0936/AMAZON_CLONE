@@ -6,7 +6,9 @@ This is a simple static **Amazon Clone** built using HTML and CSS, replicating t
 
 ## 📸 Preview
 
-![Amazon Clone Screenshot](https://user-images.githubusercontent.com/your-username/amazon-clone-preview.png)
+
+![Screenshot 2025-07-01 012423](https://github.com/user-attachments/assets/399757c0-142f-48c4-9642-3ecfc5d3983a)
+![Screenshot 2025-07-01 012438](https://github.com/user-attachments/assets/b25e6bec-28f9-4fc3-858b-9990f88f1adb)
 
 ---
 
